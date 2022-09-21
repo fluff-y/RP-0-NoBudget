@@ -373,7 +373,7 @@ namespace KerbalConstructionTime
                 }
             }
 
-            //RenderMergeSection(ship);
+            RenderMergeSection(ship);
         }
 
         private static void CheckEditorLock()
